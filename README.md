@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devansh Ashar</h1>
-<h3 align="center">A passionate Software Developer.</h3>
+<h3 align="center">A passionate Backend Developer.</h3>
 
 - 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 
-- 🌱 I’m currently learning **Machine Learning ,Web Development.**
+- 🌱 I’m currently learning **Backend Web Development,Machine Learning**
 
 - 👯 I’m looking to collaborate on **on Web Development Projects**
 
