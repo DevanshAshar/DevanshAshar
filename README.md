@@ -3,7 +3,7 @@
 
 - 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 
-- 🌱 I’m currently learning **Backend Web Development,Machine Learning**
+- 🌱 I’m currently learning **Backend Web Development**
 
 - 👯 I’m looking to collaborate on **on Web Development Projects**
 
@@ -27,11 +27,11 @@
 
 <p class="dark"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevanshAshar&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="DevanshAshar" /></p>
 
-<p class="dark">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevanshAshar&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="DevanshAshar" /></p>
+
 
 <p class="dark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshAshar&locale=en&layout=compact&theme=blueberry" alt="DevanshAshar" /></p>
 
-![Devansh Ashar's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevanshAshar&theme=react)
+
 
  <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
