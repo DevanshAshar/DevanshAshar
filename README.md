@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh Ashar</h1>
 <h3 align="center">A Passionate M.E.R.N. Developer.</h3>
 
-- 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
+- 🎓 **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 
 - 🌱 I’m currently upskilling myself in **Full Stack Web Development**
 
